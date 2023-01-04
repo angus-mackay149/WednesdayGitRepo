@@ -4,3 +4,6 @@ Some text
 =======
 kbakbhkbavejaev
 >>>>>>> SecondaryBranch
+
+
+Stuff added from the third branch
